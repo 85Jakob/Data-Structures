@@ -10,7 +10,7 @@
 #include <iostream> 
 #include <string>
 #include "linkedlist.h"
-#include "data.h"
+//#include "data.h"
 
 #define HASHTABLESIZE 15
 
