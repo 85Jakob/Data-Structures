@@ -11,7 +11,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
-//#include "data.h"
+#include "data.h"
 
 class BinTree{
 
